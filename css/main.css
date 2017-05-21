@@ -272,8 +272,17 @@ a:hover, a:focus {
     border-color: transparent;
 }
 
-.logo img {
+a img {
 	margin-top: 6px;
+	width:100%;
+	height:auto;
+	
+	
+}
+
+.r-logo{
+	width: 111.5px;
+	height: 32.189px;
 }
 
 
